@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="DAY 21 SERVLET PAGINATION">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="DAY_21_SERVLET_PAGINATION"/>
+        <property name="java-output-path" value="/DAY 21 SERVLET PAGINATION/build/classes"/>
+    </wb-module>
+</project-modules>
